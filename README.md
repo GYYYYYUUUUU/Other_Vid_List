@@ -11,5 +11,5 @@ Study
 
 Number|Date|Topic|Video|Materials|Papers
 -------|-------|--------|------|-------|------------
-1|21.03.12|Finite, Infinite Sets|[video]()|notes | Papers
+1|21.03.12|Finite, Infinite Sets|[video]()|None | None
 
