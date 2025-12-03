@@ -6,6 +6,7 @@ Study
 ## Introduction
 
 * Includes any topic I want to cover. Includes both theory and product-level research.
+* For each content, I upload a video or a passage related to the topic on medium & brunch. (Active in 2025!)
 
 
 ## Contents
