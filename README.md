@@ -1,14 +1,12 @@
-# Other Video List
+# Weekly Survey
 
 By [Gyusang Cho]
 Study
 
 ## Introduction
 
-* Any Topic I want to cover
-* Metric space Topology, http://www.math.uiuc.edu/~r-ash/RV.html.
-* Linear Algebras
-* Papers
+* Includes any topic I want to cover. Includes both theory and product-level research.
+
 
 ## Contents
 
@@ -20,3 +18,8 @@ Number|Date|Topic|Video|Materials|Papers
 4|21.03.22|[Linear Algebra] Eigenvalue, Eigenvector|[video](https://youtu.be/QmnioCHhgh8)|Applications of Linear Algebra, Strang 5| None
 5|21.04.25|[Probability Theory] Probability Space|video|notes| None
 
+## References
+
+* Metric space Topology, http://www.math.uiuc.edu/~r-ash/RV.html.
+* Linear Algebras
+* Papers
